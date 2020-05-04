@@ -1,0 +1,6 @@
+title: Covid19 across countries
+description: [Interactive data on Covid19.]
+theme: jekyll-theme-cayman
+plugins:
+      - jekyll-seo-tag
+
